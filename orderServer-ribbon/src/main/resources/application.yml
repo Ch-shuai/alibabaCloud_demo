@@ -1,0 +1,17 @@
+server:
+  port: 8021
+spring:
+  application:
+    name: orderServer-ribbon
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8801
+      discovery:
+        username: order
+        password: order
+        namespace: public
+#        ephemeral: false #设置为永久实例，即使该服务宕机也不会在nacos注册表中删除
+        service: orderServer-ribbon
+stockServer-nacos:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.alibaba.cloud.nacos.ribbon.NacosRule

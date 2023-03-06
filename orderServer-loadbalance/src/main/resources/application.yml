@@ -1,0 +1,14 @@
+server:
+  port: 8022
+spring:
+  application:
+    name: orderServer-loadbalance
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8801
+      discovery:
+        username: order
+        password: order
+        namespace: public
+#        ephemeral: false #设置为永久实例，即使该服务宕机也不会在nacos注册表中删除
+        service: orderServer-loadbalance
