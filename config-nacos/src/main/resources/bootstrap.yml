@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: config.nacos
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        username: nacos
+        password: nacos
+        # nacos-client默认拉取的是properties的文件扩展名
+        file-extension: yaml
+        namespace: c7af23e6-9ca3-4858-811e-83421abbddc6
+        group: maishall

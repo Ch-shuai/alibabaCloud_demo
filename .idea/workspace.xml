@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50a29893-b632-484b-9515-d4089893d3bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-nacos/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-nacos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-nacos/src/main/java/com/example/ConfigNacosApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-nacos/src/main/java/com/example/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-nacos/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-nacos/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getaWay/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getaWay/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getaWay/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getaWay/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getaWay/src/main/java/com/example/getaway/GetaWayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getaWay/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getaWay/src/test/java/com/example/getaway/GetaWayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/KafkaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/Partitioner/MyPartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/comsumergroup/CustomConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/comsumergroup/CustomConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/comsumergroup/CustomConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/comsumergroup/CustomConsumer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/comsumergroup/CustomConsumer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/producer/CustomerProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/java/com/example/kafka/producer/CustomerProducerRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-client/src/test/java/com/example/kafka/KafkaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/java/com/example/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/java/com/example/controller/OpenFeignServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/java/com/example/domain/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/java/com/example/exception/MyBlockExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/java/com/example/openFeignSentinelServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/java/com/example/service/OpenFeignServerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/java/com/example/service/ProductServerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderServer-openFeign-sentinel/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/src/main/java/com/example/SeataDemoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/src/main/java/com/example/config/FeignConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/src/main/java/com/example/controller/OpenFeignServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/src/main/java/com/example/service/OpenFeignServerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/src/main/java/com/example/service/ProductServerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seata-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinel-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinel-demo/src/main/java/com/example/SentinelDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinel-demo/src/main/java/com/example/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinel-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinel-demo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/java/com/example/SentinelServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/java/com/example/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/java/com/example/domain/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/java/com/example/exception/ExceptionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/java/com/example/exception/MyBlockExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/java/com/example/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/java/com/example/service/Uservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sentinelServer-sentinel/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyWalking/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyWalking/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyWalking/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyWalking/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyWalking/src/main/java/com/example/skywalking/SkyWalkingApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyWalking/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skyWalking/src/test/java/com/example/skywalking/SkyWalkingApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderServer-nacos/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/orderServer-nacos/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderServer-openFeign/src/main/java/com/example/config/FeignConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/orderServer-openFeign/src/main/java/com/example/config/FeignConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orderServer-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orderServer-ribbon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productServer-nacos/src/main/java/com/example/controller/ProductServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/productServer-nacos/src/main/java/com/example/controller/ProductServerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/productServer-nacos/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/productServer-nacos/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stockServer-nacos2/src/main/java/com/example/stockServer/controller/StockServerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/stockServer-nacos2/src/main/java/com/example/stockServer/controller/StockServerController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../collections/maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../collections/apache-maven-3.8.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../collections/apache-maven-3.8.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dChVmhK6AmYlnRNKFviCyI8n0s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "5506b4a56f204df4da2994ebb39ee286"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProductServer">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="springcloudAli" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="springcloudAli" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigNacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ConfigNacosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderServer-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.orderServer.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.orderServer.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderServer-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.orderServer.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="productServer-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ProductServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataDemoServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SeataDemoServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentinelServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sentinelServer-sentinel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SentinelServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stockServer-nacos2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.stockServer.StockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stockServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.stockServer.StockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stockServer-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.stockServer.StockApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openFeignSentinelServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderServer-openFeign-sentinel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.openFeignSentinelServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openFeignServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderServer-openFeign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.openFeignServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="orderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="orderServer-loadbalance" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.orderServer.orderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50a29893-b632-484b-9515-d4089893d3bf" name="Changes" comment="" />
+      <created>1709517993946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709517993946</updated>
+      <workItem from="1709517995439" duration="156000" />
+      <workItem from="1709518258094" duration="779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

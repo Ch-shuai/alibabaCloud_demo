@@ -26,3 +26,4 @@ hs_err_pid*
 /stockServer/target/
 /stockServer-nacos/target/
 /stockServer-nacos2/target/
+/.idea/

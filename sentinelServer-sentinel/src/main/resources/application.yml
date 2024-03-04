@@ -1,0 +1,18 @@
+server:
+  port: 4043
+spring:
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:8080
+      web-context-unify: false # 默认将调用链路收敛，并未维护调用链路
+      datasource:
+        flow-rule:
+          nacos:
+            server-addr: 127.0.0.1:8848
+            username: nacos
+            password: nacos
+            data-id: sentinel-server-flow-rule
+            rule-type: flow
+  application:
+    name: sentinel-server

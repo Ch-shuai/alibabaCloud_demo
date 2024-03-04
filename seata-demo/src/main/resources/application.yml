@@ -1,0 +1,12 @@
+server:
+  port: 8040
+spring:
+  application:
+    name: seata-demo
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8801
+      discovery:
+        username: order
+        password: order
+        namespace: public

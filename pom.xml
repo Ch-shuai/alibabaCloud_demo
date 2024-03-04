@@ -12,6 +12,10 @@
         <module>stockServer-nacos2</module>
         <module>orderServer-openFeign</module>
         <module>productServer-nacos</module>
+        <module>config-nacos</module>
+        <module>sentinelServer-sentinel</module>
+        <module>orderServer-openFeign-sentinel</module>
+        <module>seata-demo</module>
     </modules>
 
     <groupId>com.example</groupId>
@@ -67,6 +71,14 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-sentinel</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-seata</artifactId>
         </dependency>
     </dependencies>
 
